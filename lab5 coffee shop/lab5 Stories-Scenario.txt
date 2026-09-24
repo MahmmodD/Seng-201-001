@@ -1,0 +1,14 @@
+Customer User Stories
+As a customer, I want to easily place orders using my mobile phone so that I can order on the go.
+As a customer, I want to schedule my orders in advance so that I can pick them up at my preferred time.
+
+Employee User Stories
+As an employee, I want to identify items by their names rather than ID numbers so that I can easily find the correct items.
+As an employee, I want item prices to be displayed in the system so that I don't have to memorize them.
+As an employee, I want multiple employees to be able to manage and update the same order simultaneously at the same register so that we can work more efficiently.
+As an employee, I want to track the status of an order and how long it has been waiting for pickup so that I can remove it if it has been sitting too long.
+
+
+Scenario - Employee 
+
+Adam is a full-time employee at a coffee shop. He has previously experienced issues with the old ordering system, which required him to write down orders and memorize item prices. Adam wants a new system that allows him to easily find items by their names rather than ID numbers. He also wants item prices to be displayed automatically so that he can take orders more quickly and accurately.
