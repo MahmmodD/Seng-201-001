@@ -1,0 +1,23 @@
+Scenarios 
+
+Rowan Smith: 
+
+Bill wants to update the coffee trucks menu to add seasonal options. He adds several new drinks, changes some pricing around, and removes items that are no longer going to be sold. Bill modifies these changes in the application, and it is then updated so that customers can see the new price changes and also order the new seasonal options. Bill is then able to see customers ordering new options. 
+
+ 
+
+Bill notices that a large number of orders have been placed at the same time due to several classes getting out at the same time. Bill uses the application to set a maximum capacity of orders at one time which allows for ever order to be accepted, but some have to be put in a queue. Bill can adjust the capacity as the rush dies down to ensure that there isn’t a wait time listed online. 
+
+ 
+
+As a manager, I want to be able to use a system that allows for information to be added and applied easily.  
+
+As a manager, I want to modify items within the system and track the implementation of modifications. 
+
+As a manager, I want to be able to remove outdated information from the system in a timely manner that doesn’t disrupt the customer base. 
+
+As a manager, I want to be able to manage multiple orders at the same time and manipulate the system to ensure that orders are being put into a waiting queue with a maximum capacity to ensure that there isn’t an excess number of orders at one time.  
+
+As a manager, I want to be able to assign a time limit to every order to ensure that product quality is assured and have notifications for customers to let them know their order is ready. 
+
+ 
