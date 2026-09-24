@@ -1,0 +1,39 @@
+Matthew Stanley
+---------------
+
+
+SCENE 1
+-------
+Ryan age 21, is a regular college student attending UNCW, Ryan is currently majoring in biology, He often wakes up with not much energy, since he normally goes to sleep late at night. Ryan's early classes are pretty important for his major, so he needs some caffeine in his system ASAP. Ryan goes to the local coffee truck on campus but it's going to take a minute to get there. 
+
+Since Ryan already has to walk across campus for the coffee, he does not want to wait in line in fear of being late to his class. Ryan wants an easy to use system that lets him place his order on the way across campus so it can be ready by the time he arrives. Just incase it isn't, Ryan would like to know the status of his order so that if it cant be made on time, he has the option to cancel.
+-------
+
+
+
+SCENE 2
+-------
+Ryan age 21, is a regular college student attending UNCW, Ryan is currently majoring in business, when he gets the chance he likes to grab something to drink during the break he has between classes. Ryan spots the coffee truck nearby and decides to order from there. Ryan is quite indecisive and isn't really sure if he even wants coffee. Since he's not in any particular rush, Ryan wants to see all the options that this coffee truck has to offer. Ryan can also be a little picky at times, so if he wants his order in a specific way, he would like to be able to clarify that. Ryan isn't the most technologically adept person, so he would want a system that's clear and concise and has easy methods to pay for his order.
+-------
+	
+	
+	
+STORIES
+-------
+As a customer, I want a system that allows me to place my order while I'm on the way so I can avoid waiting in line.
+
+As a customer, I want to be able to see every option available from the business and customize my order to my liking.
+
+As a customer, I want to see the status and ETA of my order so I can cancel if I can't/don't want to wait for it.
+
+As a customer, I'm not very tech savvy. I need something that's simple to use so i can place my order and pay for them without any complications. 
+
+
+As a customer, I want to know when my order is done so I can arrive to grab it in time.
+
+
+
+
+
+
+
