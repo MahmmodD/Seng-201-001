@@ -1,0 +1,26 @@
+Jack Manfredi:
+---------------------------------------------------------------
+
+- As an employee, I want to be able to easily see what food needs to be made.
+
+- As an employee, I want to be able to see what orders are already being made so I don't remake orders 
+that another employee is working on.
+
+- As an employee, I want to be able to see how long an order has been waiting to be made.
+
+- As an employee, I want to be able to update order status easily so I can let online customers 
+know what's happening with their order.
+
+- As an employee, I want to be able to update the wait time for new online orders coming in.
+
+Scenarios:
+
+Joe wants an easy to use application that he can track what orders need to be made. He needs to ensure that he can manage 
+both the in person orders and the online orders to ensure that he doesn't get overwhelmed with work. 
+
+Joe notices that he has had trouble making orders in time using the system. He uses the timing feature to see how long an online order has 
+been waiting to be made so he can easily manage his work between in person orders and the online orders he has to manage. He also wants to know when an order 
+is being made by anothe employee, so he starts using the in-progress feature with his co workers to determine who is working on what order.
+
+ 
+
