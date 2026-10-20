@@ -1,0 +1,22 @@
+Cloud vs Local Decision
+-----------------------
+User Interface
+- Local
+- Lightweight component; loading from the cloud would cost more than hosting locally on the device.
+
+Application Logic
+- Local
+- Easier/faster to load from the user device.
+- Better performance because it's lightweight.
+
+Data Storage
+- Cloud
+- Allows for greater security and scalability. Keeping it off user devices allows multiple coffee shops to access data in a single, secure space.
+
+Authentication
+- Cloud
+- Secure; allows developers to control who can access what.
+
+Networking
+- Cloud/Local
+- Allows for controlled network requests to keep cloud and user devices secure while improving performance.
