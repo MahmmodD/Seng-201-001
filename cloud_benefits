@@ -1,0 +1,12 @@
+Benefits
+
+1. Having a cloud for this system makes it more scalable. It makes it more scalable because it allows developers to keep system data on a separate system built for handling large amounts of data.
+
+2. Having a cloud for this system makes it more accessible. It allows different users to access other user data from anywhere. Managing the data and requesting the data comes from one place accessible to all users.
+
+
+Risks
+
+1. Having all of your data in one place. Any security issues or data breaches put the entire system in jeopardy because data is all in once place.
+
+2. Performance issues are a risk here too, all users accessing their data from once place could lead to server overloads, or if the cloud service goes down then users would not be able to access their data for a certain period of time.
